@@ -41,7 +41,7 @@ If you find that these instructions no longer work or are unclear due to changes
 >__Note:__ The Python program must be in the project folder. Otherwise, you will have to type out the full path (_or relative path if it's in a subfolder of the project folder_) here. If there are spaces anywhere in the full path, you must include quotation marks at the beginning and end of this.
 >>__Your path should look something like any one of these if _ANY_ part of your file path has a blank space, otherwise you will leave out the quotations:__
 >>
->>``"Full/Path/to/file/python-file.py"``
+>>``"Full/Path/to/file/with blank space/python-file.py"``
 >>
 >>``"$(SOURCE_ROOT)/python-file.py"``
 >>
